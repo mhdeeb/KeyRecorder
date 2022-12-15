@@ -1,0 +1,12 @@
+{
+  "name": "keyrecorder",
+  "version": "1.0",
+  "dependencies": [
+    {
+      "name": "imgui",
+      "features": [ "docking-experimental", "glfw-binding", "opengl3-binding" ]
+    },
+    "glad",
+    "glfw3"
+  ]
+}
